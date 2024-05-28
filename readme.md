@@ -2,15 +2,18 @@
 
 Welcome to the Interactive Resume Builder project! This application allows users to input their personal and professional information to generate a formatted resume/CV.
 
+## live url 
+[https://deepanshuu2002.github.io/interactive-resume-builder/](https://deepanshuu2002.github.io/interactive-resume-builder/)
+
 ## Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- About
+- Features
+- Technologies Used
+- Setup
+- Usage
+- Contributing
+- Contact
 
 ## About
 
