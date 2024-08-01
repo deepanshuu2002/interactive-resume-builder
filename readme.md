@@ -91,7 +91,7 @@ Feel free to reach out if you have any questions or just want to connect!
 - **LinkedIn**: [Deepanshu](https://www.linkedin.com/in/deepanshu-ece-456239259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [Deepanshu](https://github.com/deepanshuu2002)
 
-Thank you for visiting my portfolio !
+Thank you for visiting my portfolio !!
 
 ---
 
